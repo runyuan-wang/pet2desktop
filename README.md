@@ -74,7 +74,6 @@ the skill runs automatically with no file dialogs.
 MIT
 
 ---
----
 
 ## 📜 许可 · License
 
